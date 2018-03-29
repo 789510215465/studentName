@@ -1,0 +1,6 @@
+C:\git\studentsName\studentsName\bin\Debug\studentsName.exe.config
+C:\git\studentsName\studentsName\bin\Debug\studentsName.exe
+C:\git\studentsName\studentsName\bin\Debug\studentsName.pdb
+C:\git\studentsName\studentsName\obj\Debug\studentsName.csprojResolveAssemblyReference.cache
+C:\git\studentsName\studentsName\obj\Debug\studentsName.exe
+C:\git\studentsName\studentsName\obj\Debug\studentsName.pdb
